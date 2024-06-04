@@ -1,0 +1,16 @@
+var addition1 = 4;
+var addition2 = 4;
+var addition = addition1 + addition2;
+console.log("Addition ".concat(addition));
+var subtraction1 = 12;
+var subtraction2 = 4;
+var subtraction = subtraction1 - subtraction2;
+console.log("Subtraction ".concat(subtraction));
+var multiplication1 = 2;
+var multiplication2 = 4;
+var multiplication = multiplication1 * multiplication2;
+console.log("Multiplication ".concat(multiplication));
+var divide1 = 8;
+var divide2 = 1;
+var divide = divide1 / divide2;
+console.log("Divide ".concat(divide));
